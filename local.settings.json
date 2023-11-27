@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "OfflineConnectionString": "Server=tcp:featuremeshdatabase.database.windows.net,1433;Initial Catalog=FeatureMeshOffline;Persist Security Info=False;User ID=admin123;Password=Admin@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;",
+    "OnlineConectionString": "DefaultEndpointsProtocol=https;AccountName=featuremeshstorage;AccountKey=DdSeZrTIDey6TjbISsZy2FiYB9FtA+p1ZD72i8XdImSjfomeSQEvGJ2tNcdsCQO3vAMyPG4q/DzQ+AStuKqMnA==;EndpointSuffix=core.windows.net;"
+  }
+}
